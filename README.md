@@ -3,6 +3,8 @@
 A machine learning regression project to predict house prices in Bangalore. The project includes data preprocessing, feature engineering, model selection, and deployment with a user-friendly web interface hosted on AWS.
 <br>
 Working Real-Time Website : http://ec2-13-48-30-156.eu-north-1.compute.amazonaws.com/
+<br>
+DataSet used : https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 ## Features
 
