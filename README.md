@@ -39,7 +39,7 @@ The Bangalore House Price Prediction project is designed to analyze and predict 
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Flask
-- **Machine Learning:** Python (NumPy, Pandas, Scikit-learn, Matplotlib, LightGBM)
+- **Machine Learning:** Python (NumPy, Pandas, Scikit-learn, Matplotlib)
 - **Deployment:** AWS, Nginx
 
 ---
@@ -58,7 +58,7 @@ The Bangalore House Price Prediction project is designed to analyze and predict 
 3. **Model Selection**:
    - K-fold cross-validation.
    - Hyperparameter tuning using GridSearchCV.
-   - Selecting the best-performing model (e.g., LightGBM).
+   - Selecting the best-performing model.
 
 4. **Deployment**:
    - Exported the model using Pickle.
