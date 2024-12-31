@@ -95,7 +95,7 @@ The Bangalore House Price Prediction project is designed to analyze and predict 
 
 ## Usage
 
-1. Enter the area in square feet, the number of BHKs, bathrooms, and select a location.
+1. Enter the area in square feet, the number of BHKs, and select a location.
 2. Click on **Estimate Price** to view the predicted house price.
 3. Results are displayed interactively with animations.
 
